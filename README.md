@@ -8,6 +8,7 @@ This is my repository where I'll storage my solutions to the exercises from Hack
 
 ## About 👾
 Here's HackerRank profile C:! https://www.hackerrank.com/xDazai
+
 Anyways, in the list below, I'll enlist all the categories of exercises that I had solved 😺
 
 <br>
