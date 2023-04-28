@@ -82,6 +82,7 @@ Anyways, in the list below, I'll enlist all the categories of exercises that I h
   <summary>30 Days of Code</summary>
   
   * 0) Hello, World (Made in C)
-  * 1) Data Types (Made in C) 
+  * 1) Data Types (Made in C)
+  * 2) Operators (Made in C) 
 
 </details>
