@@ -7,10 +7,7 @@
 //    expression_2 is used to check for the terminating condition. If this evaluates to false, then the loop is terminated.
 //    expression_3 is generally used to update the flags/variables.
 
-#include <stdio.h>
-#include <string.h>
-#include <math.h>
-#include <stdlib.h>
+
 
 // esta mal juas juas
 
@@ -26,8 +23,7 @@ int main()
     int a, b;
     scanf("%d\n%d", &a, &b);
   	// Complete the code.
-    int m;
-    for (int n=a;1<=n<=9 || n<b;n++){
+    for (int n=a; n<=b;n++){
         if (n==1){
         printf("one\n");
         }else if (n==2) {
@@ -48,16 +44,11 @@ int main()
         printf("nine\n");
         }else if (n<1) {
         printf("Out of range");
-        }else if ((n>9) &&  (n%2 == 0)) {
+        }else if ((n>9) && (n%2 == 0)) {
         printf("even\n");
-        n=b-1;
         }else if ((n>9) && (n%2 == 1)) {
         printf("odd\n");
-        break;
         }
     }
-    
-    
-    
     return 0;
 }

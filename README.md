@@ -32,6 +32,16 @@ Anyways, in the list below, I'll enlist all the categories of exercises that I h
   * 5) Pointers
 </details>
 
+<details>
+  <summary>Conditionals and loops</summary>
+  
+  * 1) Conditional Statements in C.
+  * 2) For loop in C.
+  * 3) Sum of digits of a five digit number.
+  * 4) Bitwise Operators
+
+</details>
+
 <br>
 </br>
 
