@@ -76,6 +76,32 @@ Anyways, in the list below, I'll enlist all the categories of exercises that I h
 <br>
 </br>
 
+<p >
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql" align="right" width="100">
+  </a>
+</p>
+
+
+## SQL
+
+<details>
+  <summary>Basic Select</summary>
+  
+  * 1) Revising the Select Query 1
+  * 2) Revising the Select Query 2
+  * 3) Select All
+  * 4) Select by ID
+  * 5) Japanies Cities Attributes
+  * 6) Japanese Cities Names
+  * 7) Weather Observation Station 1
+  * 8) Weather Observation Station 3
+  * 9) Weather Observation Station 4
+</details>
+
+<br>
+</br>
+
 ## 30 Days of Code
 
 <details>
@@ -87,3 +113,5 @@ Anyways, in the list below, I'll enlist all the categories of exercises that I h
   * 3) Intro to Conditional Statements (Made in C)
   * 4) Class vs. Instance (Made in C++)
 </details>
+
+
