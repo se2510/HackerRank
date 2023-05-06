@@ -47,6 +47,25 @@ Anyways, in the list below, I'll enlist all the categories of exercises that I h
 
 <p >
   <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp" align="right" width="100">
+  </a>
+</p>
+
+## C++
+
+<details>
+  <summary>Introduction</summary>
+  
+  * 1) Hello World
+  * 2) Input and Output
+  * 3) Basic Data Types
+</details>
+
+<br>
+</br>
+
+<p >
+  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python" align="right" width="100">
   </a>
 </p>
