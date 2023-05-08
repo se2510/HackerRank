@@ -121,6 +121,24 @@ Anyways, in the list below, I'll enlist all the categories of exercises that I h
 <br>
 </br>
 
+<p >
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java" align="right" width="100">
+  </a>
+</p>
+
+## Java
+
+<details>
+  <summary>Introduction</summary>
+  
+  * 1) Welcome to Java
+  * 2) Java Stdin and  Stdout
+</details>
+
+<br>
+</br>
+
 ## 30 Days of Code
 
 <details>
