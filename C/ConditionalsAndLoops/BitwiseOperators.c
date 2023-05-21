@@ -34,11 +34,34 @@ true or false, 0 or 1, for each bit compared.
 
 void calculate_the_maximum(int n, int k) {
   //Write your code here.
+  int numeriniAND = 0;
+  int numeriniOR = 0;
+  int numeriniXOR = 0;
+  for(int a = 1 ; a < n ; a++ ){
+      for(int b = a+1; b <= n ; b++){
+          if( ((a & b) > numeriniAND) && ((a & b) < k)){
+              numeriniAND = a&b;
+              //printf("%d\n", a&b);
+          }
+          if( ((a | b) > numeriniOR) && ((a | b) < k)){
+              numeriniOR = a|b;
+              //printf("%d \n", a|b);
+          }
+          if( ((a ^ b) > numeriniXOR) && ((a ^ b) < k)){
+              numeriniXOR = a^b;
+              //printf("%d\n", a^b);
+          }
+      }
+      
+  }
+    printf("%d\n", numeriniAND);
+    printf("%d\n", numeriniOR);
+    printf("%d\n", numeriniXOR);
 }
 
 int main() {
     int n, k;
-
+  
     scanf("%d %d", &n, &k);
     calculate_the_maximum(n, k);
 
