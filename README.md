@@ -61,6 +61,7 @@ Anyways, in the list below, I'll enlist all the categories of exercises that I h
   * 2) Input and Output
   * 3) Basic Data Types
   * 4) Conditional Statements
+  * 5) For loop
 </details>
 
 <br>
