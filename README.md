@@ -38,7 +38,8 @@ Anyways, in the list below, I'll enlist all the categories of exercises that I h
   * 1) Conditional Statements in C.
   * 2) For loop in C.
   * 3) Sum of digits of a five digit number.
-  * 4) Bitwise Operators
+  * 4) Bitwise Operators.
+  * 5) Printing patterns using loops.
 
 </details>
 
@@ -59,6 +60,7 @@ Anyways, in the list below, I'll enlist all the categories of exercises that I h
   * 1) Hello World
   * 2) Input and Output
   * 3) Basic Data Types
+  * 4) Conditional Statements
 </details>
 
 <br>
