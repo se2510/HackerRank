@@ -155,6 +155,7 @@ Anyways, in the list below, I'll enlist all the categories of exercises that I h
   * 4) Class vs. Instance (Made in C++)
   * 5) Loops (Made in C)
   * 6) Let's Review (Made in C)
+  * 7) Arrays (Made in Python)
 </details>
 
 
